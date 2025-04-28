@@ -12,6 +12,8 @@ function HomePage() {
                         Find out best
                         <span className="text-yellow-500 font-bold">
                             Online Courses
+                            {/* 420 courses */}
+                            //hash
                         </span>
                     </h1>
                     <p className="text-xl text-gray-200">
